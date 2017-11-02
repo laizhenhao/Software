@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [333.17002929365435, 0.0, 318.3236119454478, 0.0, 334.3864847904365, 232.92908147633943,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: duckbin/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2889152333322853, 0.063040408581134, 0.00031555996523668244, 0.002610466678119866,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [234.20419311523438, 0.0, 321.4889353781, 0.0, 0.0, 271.4045104980469, 228.86404720394967,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
